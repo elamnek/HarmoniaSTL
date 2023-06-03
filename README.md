@@ -1,2 +1,2 @@
 # HarmoniaSTL
-3D printable STL files to Harmonia
+3D printable STL files for Harmonia I
